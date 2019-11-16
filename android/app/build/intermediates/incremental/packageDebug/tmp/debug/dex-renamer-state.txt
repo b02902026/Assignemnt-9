@@ -1,0 +1,4 @@
+#Fri Nov 15 17:40:29 CST 2019
+base.0=/Users/benchen/AwesomeProject/android/app/build/intermediates/transforms/dexMerger/debug/0
+renamed.0=classes.dex
+path.0=classes.dex

@@ -1,0 +1,220 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/benchen/AwesomeProject/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/benchen/AwesomeProject/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/benchen/AwesomeProject/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/benchen/AwesomeProject/android/app/src/main/AndroidManifest.xml:1:1-26:12
+MERGED from /Users/benchen/AwesomeProject/android/app/src/main/AndroidManifest.xml:1:1-26:12
+MERGED from [com.facebook.react:react-native:0.61.4] /Users/benchen/.gradle/caches/transforms-2/files-2.1/407287d8db624b1fbab886f06361333d/AndroidManifest.xml:2:1-13:12
+MERGED from [org.webkit:android-jsc:r245459] /Users/benchen/.gradle/caches/transforms-2/files-2.1/eff31d51665cba1ecec51a8fc125f53e/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/benchen/.gradle/caches/transforms-2/files-2.1/caa60a1944e8e07b68d29de38cfef9d6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/benchen/.gradle/caches/transforms-2/files-2.1/0761969be6685365422efd3ace44f8b6/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/benchen/.gradle/caches/transforms-2/files-2.1/bc2e778bcb16403505dff53a620a83a3/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/benchen/.gradle/caches/transforms-2/files-2.1/c41c44a166ba0459313d44aa1a23aee4/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/benchen/.gradle/caches/transforms-2/files-2.1/8411486e63bed1864932bd65e10935ce/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/benchen/.gradle/caches/transforms-2/files-2.1/30bb334bca92092d0ba6e43ec662f243/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/benchen/.gradle/caches/transforms-2/files-2.1/9ab46d1f9700973b3714c0b89c08444e/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/benchen/.gradle/caches/transforms-2/files-2.1/207fd72c7073a7491d64ecd72326b1f9/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/benchen/.gradle/caches/transforms-2/files-2.1/de35f23e26dfe8fc2ee7ef7ff193dd13/AndroidManifest.xml:2:1-13:12
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/benchen/.gradle/caches/transforms-2/files-2.1/7265bc62378315357190f8534cbacd88/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/benchen/.gradle/caches/transforms-2/files-2.1/821c6e8b3f2abb54e5b99b53e2786b84/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/benchen/.gradle/caches/transforms-2/files-2.1/979aa9cc4c0a39ed7fdefabb4f1163d9/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/benchen/.gradle/caches/transforms-2/files-2.1/06beb39b8f393872427aca8830aecb96/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/benchen/.gradle/caches/transforms-2/files-2.1/074747ec15697287a6222706c0958f49/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/benchen/.gradle/caches/transforms-2/files-2.1/2305e437d0cab892a647b7d03daa14f5/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/benchen/.gradle/caches/transforms-2/files-2.1/428598f418f3474fb89be365df66ddf3/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/benchen/.gradle/caches/transforms-2/files-2.1/efa69acfb068d9b8e427d2218f688019/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/benchen/.gradle/caches/transforms-2/files-2.1/fb66748ceb69cc52505aabada88f3973/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/benchen/.gradle/caches/transforms-2/files-2.1/f0d8ebacedbbeb13a58fb128ec3c92d6/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/benchen/.gradle/caches/transforms-2/files-2.1/f5d8ee780e662b02ca92092ed4813091/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/benchen/.gradle/caches/transforms-2/files-2.1/b785021bb1b786aa28e8b71b9ec8aad8/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/benchen/.gradle/caches/transforms-2/files-2.1/b21647c252f16f82a1ca43a34e458827/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.1] /Users/benchen/.gradle/caches/transforms-2/files-2.1/7ff1b2a9dff1a4d218a5e25778ad7b7e/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/benchen/.gradle/caches/transforms-2/files-2.1/db3078e4e33013e612572fa1d2ded824/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/benchen/.gradle/caches/transforms-2/files-2.1/b9f9f43dce4536092bfe5223ba9bd64c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/benchen/.gradle/caches/transforms-2/files-2.1/132f6518342ab4e77393fea867444abc/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/benchen/.gradle/caches/transforms-2/files-2.1/f5eae613ff8d9cf5ad06e15903f2e557/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/benchen/.gradle/caches/transforms-2/files-2.1/5bf4416423896c7f75f2dfd5e16113e8/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/benchen/.gradle/caches/transforms-2/files-2.1/24e1438fcd85dd560d0550e6f87c0120/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/benchen/.gradle/caches/transforms-2/files-2.1/25c98e3c33e1ebeda51b0a082f4134f9/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/benchen/.gradle/caches/transforms-2/files-2.1/0193c193d544fcac358d086f7607e52a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/benchen/.gradle/caches/transforms-2/files-2.1/da2d44d2affbe4c20f0b182f2db7bfdd/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/benchen/.gradle/caches/transforms-2/files-2.1/29d53d7d407590e57ce925c5c0a23a34/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/benchen/.gradle/caches/transforms-2/files-2.1/90be61b6b950bdff125af7ae2832e23b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/benchen/.gradle/caches/transforms-2/files-2.1/759ec3f05ee746ccbb8470f490aa0ecb/AndroidManifest.xml:2:1-9:12
+INJECTED from /Users/benchen/AwesomeProject/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+INJECTED from /Users/benchen/AwesomeProject/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+INJECTED from /Users/benchen/AwesomeProject/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+	package
+		ADDED from /Users/benchen/AwesomeProject/android/app/src/main/AndroidManifest.xml:2:3-31
+		INJECTED from /Users/benchen/AwesomeProject/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/benchen/AwesomeProject/android/app/src/main/AndroidManifest.xml:2:3-31
+		INJECTED from /Users/benchen/AwesomeProject/android/app/src/debug/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/benchen/AwesomeProject/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/benchen/AwesomeProject/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /Users/benchen/AwesomeProject/android/app/src/debug/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/benchen/AwesomeProject/android/app/src/debug/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /Users/benchen/AwesomeProject/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/benchen/AwesomeProject/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /Users/benchen/AwesomeProject/android/app/src/debug/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/benchen/AwesomeProject/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/benchen/AwesomeProject/android/app/src/main/AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from /Users/benchen/AwesomeProject/android/app/src/main/AndroidManifest.xml:4:22-64
+application
+ADDED from /Users/benchen/AwesomeProject/android/app/src/main/AndroidManifest.xml:6:5-24:19
+MERGED from /Users/benchen/AwesomeProject/android/app/src/main/AndroidManifest.xml:6:5-24:19
+MERGED from /Users/benchen/AwesomeProject/android/app/src/main/AndroidManifest.xml:6:5-24:19
+MERGED from [com.facebook.react:react-native:0.61.4] /Users/benchen/.gradle/caches/transforms-2/files-2.1/407287d8db624b1fbab886f06361333d/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.61.4] /Users/benchen/.gradle/caches/transforms-2/files-2.1/407287d8db624b1fbab886f06361333d/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/benchen/.gradle/caches/transforms-2/files-2.1/de35f23e26dfe8fc2ee7ef7ff193dd13/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/benchen/.gradle/caches/transforms-2/files-2.1/de35f23e26dfe8fc2ee7ef7ff193dd13/AndroidManifest.xml:11:5-20
+MERGED from [androidx.core:core:1.0.1] /Users/benchen/.gradle/caches/transforms-2/files-2.1/7ff1b2a9dff1a4d218a5e25778ad7b7e/AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.1] /Users/benchen/.gradle/caches/transforms-2/files-2.1/7ff1b2a9dff1a4d218a5e25778ad7b7e/AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/benchen/.gradle/caches/transforms-2/files-2.1/db3078e4e33013e612572fa1d2ded824/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/benchen/.gradle/caches/transforms-2/files-2.1/db3078e4e33013e612572fa1d2ded824/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.1] /Users/benchen/.gradle/caches/transforms-2/files-2.1/7ff1b2a9dff1a4d218a5e25778ad7b7e/AndroidManifest.xml:22:18-86
+	android:label
+		ADDED from /Users/benchen/AwesomeProject/android/app/src/main/AndroidManifest.xml:8:7-39
+		ADDED from /Users/benchen/AwesomeProject/android/app/src/main/AndroidManifest.xml:8:7-39
+	tools:ignore
+		ADDED from /Users/benchen/AwesomeProject/android/app/src/debug/AndroidManifest.xml:7:75-114
+	android:roundIcon
+		ADDED from /Users/benchen/AwesomeProject/android/app/src/main/AndroidManifest.xml:10:7-52
+		ADDED from /Users/benchen/AwesomeProject/android/app/src/main/AndroidManifest.xml:10:7-52
+	tools:targetApi
+		ADDED from /Users/benchen/AwesomeProject/android/app/src/debug/AndroidManifest.xml:7:54-74
+	android:icon
+		ADDED from /Users/benchen/AwesomeProject/android/app/src/main/AndroidManifest.xml:9:7-41
+		ADDED from /Users/benchen/AwesomeProject/android/app/src/main/AndroidManifest.xml:9:7-41
+	android:allowBackup
+		ADDED from /Users/benchen/AwesomeProject/android/app/src/main/AndroidManifest.xml:11:7-34
+		ADDED from /Users/benchen/AwesomeProject/android/app/src/main/AndroidManifest.xml:11:7-34
+	android:theme
+		ADDED from /Users/benchen/AwesomeProject/android/app/src/main/AndroidManifest.xml:12:7-38
+		ADDED from /Users/benchen/AwesomeProject/android/app/src/main/AndroidManifest.xml:12:7-38
+	android:usesCleartextTraffic
+		ADDED from /Users/benchen/AwesomeProject/android/app/src/debug/AndroidManifest.xml:7:18-53
+	android:name
+		ADDED from /Users/benchen/AwesomeProject/android/app/src/main/AndroidManifest.xml:7:7-38
+		ADDED from /Users/benchen/AwesomeProject/android/app/src/main/AndroidManifest.xml:7:7-38
+activity#com.awesomeproject.MainActivity
+ADDED from /Users/benchen/AwesomeProject/android/app/src/main/AndroidManifest.xml:13:7-22:18
+	android:label
+		ADDED from /Users/benchen/AwesomeProject/android/app/src/main/AndroidManifest.xml:15:9-41
+	android:windowSoftInputMode
+		ADDED from /Users/benchen/AwesomeProject/android/app/src/main/AndroidManifest.xml:17:9-51
+	android:configChanges
+		ADDED from /Users/benchen/AwesomeProject/android/app/src/main/AndroidManifest.xml:16:9-79
+	android:name
+		ADDED from /Users/benchen/AwesomeProject/android/app/src/main/AndroidManifest.xml:14:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/benchen/AwesomeProject/android/app/src/main/AndroidManifest.xml:18:9-21:25
+action#android.intent.action.MAIN
+ADDED from /Users/benchen/AwesomeProject/android/app/src/main/AndroidManifest.xml:19:13-65
+	android:name
+		ADDED from /Users/benchen/AwesomeProject/android/app/src/main/AndroidManifest.xml:19:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /Users/benchen/AwesomeProject/android/app/src/main/AndroidManifest.xml:20:13-73
+	android:name
+		ADDED from /Users/benchen/AwesomeProject/android/app/src/main/AndroidManifest.xml:20:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /Users/benchen/AwesomeProject/android/app/src/main/AndroidManifest.xml:23:7-84
+	android:name
+		ADDED from /Users/benchen/AwesomeProject/android/app/src/main/AndroidManifest.xml:23:17-81
+uses-sdk
+INJECTED from /Users/benchen/AwesomeProject/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/benchen/AwesomeProject/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/benchen/AwesomeProject/android/app/src/main/AndroidManifest.xml
+MERGED from [com.facebook.react:react-native:0.61.4] /Users/benchen/.gradle/caches/transforms-2/files-2.1/407287d8db624b1fbab886f06361333d/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.61.4] /Users/benchen/.gradle/caches/transforms-2/files-2.1/407287d8db624b1fbab886f06361333d/AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] /Users/benchen/.gradle/caches/transforms-2/files-2.1/eff31d51665cba1ecec51a8fc125f53e/AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] /Users/benchen/.gradle/caches/transforms-2/files-2.1/eff31d51665cba1ecec51a8fc125f53e/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/benchen/.gradle/caches/transforms-2/files-2.1/caa60a1944e8e07b68d29de38cfef9d6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/benchen/.gradle/caches/transforms-2/files-2.1/caa60a1944e8e07b68d29de38cfef9d6/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/benchen/.gradle/caches/transforms-2/files-2.1/0761969be6685365422efd3ace44f8b6/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/benchen/.gradle/caches/transforms-2/files-2.1/0761969be6685365422efd3ace44f8b6/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/benchen/.gradle/caches/transforms-2/files-2.1/bc2e778bcb16403505dff53a620a83a3/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/benchen/.gradle/caches/transforms-2/files-2.1/bc2e778bcb16403505dff53a620a83a3/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/benchen/.gradle/caches/transforms-2/files-2.1/c41c44a166ba0459313d44aa1a23aee4/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/benchen/.gradle/caches/transforms-2/files-2.1/c41c44a166ba0459313d44aa1a23aee4/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/benchen/.gradle/caches/transforms-2/files-2.1/8411486e63bed1864932bd65e10935ce/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/benchen/.gradle/caches/transforms-2/files-2.1/8411486e63bed1864932bd65e10935ce/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/benchen/.gradle/caches/transforms-2/files-2.1/30bb334bca92092d0ba6e43ec662f243/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/benchen/.gradle/caches/transforms-2/files-2.1/30bb334bca92092d0ba6e43ec662f243/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/benchen/.gradle/caches/transforms-2/files-2.1/9ab46d1f9700973b3714c0b89c08444e/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/benchen/.gradle/caches/transforms-2/files-2.1/9ab46d1f9700973b3714c0b89c08444e/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/benchen/.gradle/caches/transforms-2/files-2.1/207fd72c7073a7491d64ecd72326b1f9/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/benchen/.gradle/caches/transforms-2/files-2.1/207fd72c7073a7491d64ecd72326b1f9/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/benchen/.gradle/caches/transforms-2/files-2.1/de35f23e26dfe8fc2ee7ef7ff193dd13/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/benchen/.gradle/caches/transforms-2/files-2.1/de35f23e26dfe8fc2ee7ef7ff193dd13/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/benchen/.gradle/caches/transforms-2/files-2.1/7265bc62378315357190f8534cbacd88/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/benchen/.gradle/caches/transforms-2/files-2.1/7265bc62378315357190f8534cbacd88/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/benchen/.gradle/caches/transforms-2/files-2.1/821c6e8b3f2abb54e5b99b53e2786b84/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/benchen/.gradle/caches/transforms-2/files-2.1/821c6e8b3f2abb54e5b99b53e2786b84/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/benchen/.gradle/caches/transforms-2/files-2.1/979aa9cc4c0a39ed7fdefabb4f1163d9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/benchen/.gradle/caches/transforms-2/files-2.1/979aa9cc4c0a39ed7fdefabb4f1163d9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/benchen/.gradle/caches/transforms-2/files-2.1/06beb39b8f393872427aca8830aecb96/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/benchen/.gradle/caches/transforms-2/files-2.1/06beb39b8f393872427aca8830aecb96/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/benchen/.gradle/caches/transforms-2/files-2.1/074747ec15697287a6222706c0958f49/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/benchen/.gradle/caches/transforms-2/files-2.1/074747ec15697287a6222706c0958f49/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/benchen/.gradle/caches/transforms-2/files-2.1/2305e437d0cab892a647b7d03daa14f5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/benchen/.gradle/caches/transforms-2/files-2.1/2305e437d0cab892a647b7d03daa14f5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/benchen/.gradle/caches/transforms-2/files-2.1/428598f418f3474fb89be365df66ddf3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/benchen/.gradle/caches/transforms-2/files-2.1/428598f418f3474fb89be365df66ddf3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/benchen/.gradle/caches/transforms-2/files-2.1/efa69acfb068d9b8e427d2218f688019/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/benchen/.gradle/caches/transforms-2/files-2.1/efa69acfb068d9b8e427d2218f688019/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/benchen/.gradle/caches/transforms-2/files-2.1/fb66748ceb69cc52505aabada88f3973/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/benchen/.gradle/caches/transforms-2/files-2.1/fb66748ceb69cc52505aabada88f3973/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/benchen/.gradle/caches/transforms-2/files-2.1/f0d8ebacedbbeb13a58fb128ec3c92d6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/benchen/.gradle/caches/transforms-2/files-2.1/f0d8ebacedbbeb13a58fb128ec3c92d6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/benchen/.gradle/caches/transforms-2/files-2.1/f5d8ee780e662b02ca92092ed4813091/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/benchen/.gradle/caches/transforms-2/files-2.1/f5d8ee780e662b02ca92092ed4813091/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/benchen/.gradle/caches/transforms-2/files-2.1/b785021bb1b786aa28e8b71b9ec8aad8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/benchen/.gradle/caches/transforms-2/files-2.1/b785021bb1b786aa28e8b71b9ec8aad8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/benchen/.gradle/caches/transforms-2/files-2.1/b21647c252f16f82a1ca43a34e458827/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/benchen/.gradle/caches/transforms-2/files-2.1/b21647c252f16f82a1ca43a34e458827/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /Users/benchen/.gradle/caches/transforms-2/files-2.1/7ff1b2a9dff1a4d218a5e25778ad7b7e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /Users/benchen/.gradle/caches/transforms-2/files-2.1/7ff1b2a9dff1a4d218a5e25778ad7b7e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/benchen/.gradle/caches/transforms-2/files-2.1/db3078e4e33013e612572fa1d2ded824/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/benchen/.gradle/caches/transforms-2/files-2.1/db3078e4e33013e612572fa1d2ded824/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/benchen/.gradle/caches/transforms-2/files-2.1/b9f9f43dce4536092bfe5223ba9bd64c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/benchen/.gradle/caches/transforms-2/files-2.1/b9f9f43dce4536092bfe5223ba9bd64c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/benchen/.gradle/caches/transforms-2/files-2.1/132f6518342ab4e77393fea867444abc/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/benchen/.gradle/caches/transforms-2/files-2.1/132f6518342ab4e77393fea867444abc/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/benchen/.gradle/caches/transforms-2/files-2.1/f5eae613ff8d9cf5ad06e15903f2e557/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/benchen/.gradle/caches/transforms-2/files-2.1/f5eae613ff8d9cf5ad06e15903f2e557/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/benchen/.gradle/caches/transforms-2/files-2.1/5bf4416423896c7f75f2dfd5e16113e8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/benchen/.gradle/caches/transforms-2/files-2.1/5bf4416423896c7f75f2dfd5e16113e8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/benchen/.gradle/caches/transforms-2/files-2.1/24e1438fcd85dd560d0550e6f87c0120/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/benchen/.gradle/caches/transforms-2/files-2.1/24e1438fcd85dd560d0550e6f87c0120/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/benchen/.gradle/caches/transforms-2/files-2.1/25c98e3c33e1ebeda51b0a082f4134f9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/benchen/.gradle/caches/transforms-2/files-2.1/25c98e3c33e1ebeda51b0a082f4134f9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/benchen/.gradle/caches/transforms-2/files-2.1/0193c193d544fcac358d086f7607e52a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/benchen/.gradle/caches/transforms-2/files-2.1/0193c193d544fcac358d086f7607e52a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/benchen/.gradle/caches/transforms-2/files-2.1/da2d44d2affbe4c20f0b182f2db7bfdd/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/benchen/.gradle/caches/transforms-2/files-2.1/da2d44d2affbe4c20f0b182f2db7bfdd/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/benchen/.gradle/caches/transforms-2/files-2.1/29d53d7d407590e57ce925c5c0a23a34/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/benchen/.gradle/caches/transforms-2/files-2.1/29d53d7d407590e57ce925c5c0a23a34/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/benchen/.gradle/caches/transforms-2/files-2.1/90be61b6b950bdff125af7ae2832e23b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/benchen/.gradle/caches/transforms-2/files-2.1/90be61b6b950bdff125af7ae2832e23b/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/benchen/.gradle/caches/transforms-2/files-2.1/759ec3f05ee746ccbb8470f490aa0ecb/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/benchen/.gradle/caches/transforms-2/files-2.1/759ec3f05ee746ccbb8470f490aa0ecb/AndroidManifest.xml:5:5-7:41
+INJECTED from /Users/benchen/AwesomeProject/android/app/src/debug/AndroidManifest.xml
+INJECTED from /Users/benchen/AwesomeProject/android/app/src/debug/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/benchen/AwesomeProject/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/benchen/AwesomeProject/android/app/src/debug/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/benchen/AwesomeProject/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/benchen/AwesomeProject/android/app/src/debug/AndroidManifest.xml
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /Users/benchen/AwesomeProject/android/app/src/debug/AndroidManifest.xml:5:5-77
+	android:name
+		ADDED from /Users/benchen/AwesomeProject/android/app/src/debug/AndroidManifest.xml:5:22-75
